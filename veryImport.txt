@@ -13,4 +13,5 @@ Thank you for reading our tutorial.
 -----------------------------------RANDOM FOOTNOTES---------------------------
 using namespace std;
 
-space found
+there was no space found
+
