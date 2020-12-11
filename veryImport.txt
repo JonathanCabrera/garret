@@ -9,7 +9,6 @@ our goal is to help you realize hammers, sickles, and bread exist.
 
 Thank you for reading our tutorial.
 
-
 -----------------------------------RANDOM FOOTNOTES---------------------------
 using namespace std;
 
